@@ -1,4 +1,4 @@
-# TaskShedulerapp
+# TaskShedulerApp
 
 ## About  
 This is an Android application designed for managing daily tasks with a custom calendar view. It features task creation, weekly navigation, and Firebase integration for data storage and management.  
@@ -23,7 +23,7 @@ Ensure you have the following installed on your system:
 1. **Download the Repository**  
    - Clone the repository using Git:  
      ```bash
-     git clone https://github.com/MemonFaizan/TaskShedulerapp.git
+     git clone https://github.com/MemonFaizan/TaskShedulerApp.git
      ```  
      OR  
      - Download the `.7z` file from the repository and extract it using [7-Zip](https://www.7-zip.org/).  
